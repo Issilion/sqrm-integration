@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Sep 14 14:15:06 MSK 2016
+@default-central-http\://dev.parking.ru\:8020/content/groups/public/.lastUpdated=1473851706742
+http\://dev.parking.ru\:8020/content/groups/public/.error=Could not transfer artifact com.sun.org.apache.xml.security\:xmlsec\:jar\:javadoc\:2.0 from/to central (http\://dev.parking.ru\:8020/content/groups/public)\: connect timed out

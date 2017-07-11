@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Sep 25 16:09:43 MSK 2016
+@default-springsource-milestones-https\://oss.sonatype.org/content/repositories/springsource-milestones/.lastUpdated=1474808976868
+https\://repo.maven.apache.org/maven2/.lastUpdated=1474808983263
+https\://oss.sonatype.org/content/repositories/springsource-milestones/.error=Could not transfer artifact org.springframework\:spring-asm\:jar\:3.1.0.RELEASE from/to springsource-milestones (https\://oss.sonatype.org/content/repositories/springsource-milestones)\: Failed to transfer https\://oss.sonatype.org/content/repositories/springsource-milestones/org/springframework/spring-asm/3.1.0.RELEASE/spring-asm-3.1.0.RELEASE.jar. Error code 503, Service Unavailable

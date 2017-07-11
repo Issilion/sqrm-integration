@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Sep 14 17:02:15 MSK 2016
+https\://repo.maven.apache.org/maven2/.lastUpdated=1473861735352
+@default-central-http\://dev.parking.ru\:8020/content/groups/public/.lastUpdated=1473851446296
+http\://dev.parking.ru\:8020/content/groups/public/.error=Could not transfer artifact org.springframework.security\:spring-security-acl\:jar\:javadoc\:3.1.4.RELEASE from/to central (http\://dev.parking.ru\:8020/content/groups/public)\: connect timed out

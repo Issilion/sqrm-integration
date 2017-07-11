@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Sep 14 17:01:26 MSK 2016
+https\://repo.maven.apache.org/maven2/.lastUpdated=1473861686089
+@default-central-http\://dev.parking.ru\:8020/content/groups/public/.lastUpdated=1473850324857
+http\://dev.parking.ru\:8020/content/groups/public/.error=Could not transfer artifact org.hibernate\:hibernate-commons-annotations\:jar\:javadoc\:3.2.0.Final from/to central (http\://dev.parking.ru\:8020/content/groups/public)\: The operation was cancelled.

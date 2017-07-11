@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Sep 14 14:18:07 MSK 2016
+@default-central-http\://dev.parking.ru\:8020/content/groups/public/.lastUpdated=1473851887164
+http\://dev.parking.ru\:8020/content/groups/public/.error=Could not transfer artifact freemarker\:freemarker\:jar\:javadoc\:2.3.8 from/to central (http\://dev.parking.ru\:8020/content/groups/public)\: connect timed out

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Sep 14 17:01:33 MSK 2016
+https\://repo.maven.apache.org/maven2/.lastUpdated=1473861693513
+@default-central-http\://dev.parking.ru\:8020/content/groups/public/.lastUpdated=1473851147258
+http\://dev.parking.ru\:8020/content/groups/public/.error=Could not transfer artifact org.hibernate.javax.persistence\:hibernate-jpa-2.0-api\:jar\:sources\:1.0.1.Final from/to central (http\://dev.parking.ru\:8020/content/groups/public)\: connect timed out

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Sep 14 17:01:23 MSK 2016
+https\://repo.maven.apache.org/maven2/.lastUpdated=1473861683583
+@default-central-http\://dev.parking.ru\:8020/content/groups/public/.lastUpdated=1473850314825
+https\://repo.maven.apache.org/maven2/.error=
+http\://dev.parking.ru\:8020/content/groups/public/.error=Could not transfer artifact antlr\:antlr\:jar\:javadoc\:2.7.6 from/to central (http\://dev.parking.ru\:8020/content/groups/public)\: connect timed out
